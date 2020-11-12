@@ -2,6 +2,8 @@
 
 Data Analysis, Visualization, and Prediction On The New York City Airbnb Open Data
 
+![NYC](New_York_City_.png)
+
 ## Description
 
 ### Context
