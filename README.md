@@ -1,8 +1,5 @@
 # Data-Product-On-NYC-Airbnb
-
 Data Analysis, Visualization, and Prediction On The New York City Airbnb Open Data
-
-![NYC](New_York_City_.png)
 
 ## Description
 
@@ -20,3 +17,5 @@ Predict NYC Airbnb Rental Prices
 
 ### Details 
 As of August 2019, this data set contains almost 50 thousand airbnb listings in NYC. The purpose of this task is to predict the price of NYC Airbnb rentals based on the data provided and any external dataset(s) with relevant information.
+
+![NYC](New_York_City_.png)
